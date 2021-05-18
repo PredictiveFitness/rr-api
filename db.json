@@ -4,18 +4,21 @@
             "id": 0,
             "name": "Tim O'Donnell",
             "location": "Boulder, CO",
+            "division": "M 20-24",
             "DOB": "10/1/1980"
         },
         {
             "id": 1,
             "name": "Jonboy Meyers",
             "location": "San Diego, CA",
+            "division": "M 30-34",
             "DOB": "5/5/1989"
         },
         {
             "id": 2,
             "name": "Chris Buck",
             "location": "Leeds, UK",
+            "division": "M 35-39",
             "DOB": "12/6/1986"
         }
     ],
